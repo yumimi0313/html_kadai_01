@@ -8,10 +8,16 @@
   
   .contact th{
     width: 150px;
+    text-align: right;
+    margin-right: 10px;
   }
   
   .contact td .input_form{
     width: 480px;
+    margin-left: 10px;
+  }
+
+  .contact td .radio{
     margin-left: 10px;
   }
 
